@@ -10,7 +10,7 @@ body {
   justify-content: space-between;
   align-items: center;
   padding: 0px 200px;
-  height: 48px;
+  height: 64px;
   background-color: #1F2937;
 }
 
@@ -57,9 +57,18 @@ body {
   color: #f9faf8;
 }
 
+.presentation button {
+  background-color: #3882f6;
+  padding: 8px 24px;
+  border-radius: 10px;
+  border: 0;
+  font-weight: bold;
+  color: #f9faf8;
+}
+
 .main-img img {
-  height: 190px;
-  width: auto;
+  height: 216px;
+  width: 500px;
 }
 
 .secondary-text {
@@ -69,7 +78,7 @@ body {
 
 .footer {
   display: flex;
-  height: 48px;
+  height: 64px;
   background-color: #1F2937;
   justify-content: center;
   align-items: center;
