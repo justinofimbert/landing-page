@@ -21,6 +21,7 @@ body {
   padding: 0 6px 0 0;
 
 }
+
 .header ul a {
   color: #e5e7eb;
   text-decoration: none;
@@ -57,9 +58,15 @@ body {
   color: #f9faf8;
 }
 
+.secondary-text {
+  font-size: 18px;
+  color: #e5e7eb;
+}
+
 .presentation button {
   background-color: #3882f6;
-  padding: 8px 24px;
+  font-size: 16px;
+  padding: 8px 28px;
   border-radius: 10px;
   border: 0;
   font-weight: bold;
@@ -69,11 +76,6 @@ body {
 .main-img img {
   height: 216px;
   width: 500px;
-}
-
-.secondary-text {
-  font-size: 18px;
-  color: #e5e7eb;
 }
 
 .information {
@@ -94,7 +96,7 @@ body {
 .items-box {
   display: flex;
   justify-content: center;
-  gap: 36px;
+  gap: 42px;
 }
 
 .item {
